@@ -1,0 +1,350 @@
+[
+ {
+  "name": "Luke Skywalker",
+  "id": 1
+ },
+ {
+  "name": "C-3PO",
+  "id": 2
+ },
+ {
+  "name": "R2-D2",
+  "id": 3
+ },
+ {
+  "name": "Darth Vader",
+  "id": 4
+ },
+ {
+  "name": "Leia Organa",
+  "id": 5
+ },
+ {
+  "name": "Owen Lars",
+  "id": 6
+ },
+ {
+  "name": "Beru Whitesun lars",
+  "id": 7
+ },
+ {
+  "name": "R5-D4",
+  "id": 8
+ },
+ {
+  "name": "Biggs Darklighter",
+  "id": 9
+ },
+ {
+  "name": "Obi-Wan Kenobi",
+  "id": 10
+ },
+ {
+  "name": "Anakin Skywalker",
+  "id": 11
+ },
+ {
+  "name": "Wilhuff Tarkin",
+  "id": 12
+ },
+ {
+  "name": "Chewbacca",
+  "id": 13
+ },
+ {
+  "name": "Han Solo",
+  "id": 14
+ },
+ {
+  "name": "Greedo",
+  "id": 15
+ },
+ {
+  "name": "Jabba Desilijic Tiure",
+  "id": 16
+ },
+ {
+  "name": "Wedge Antilles",
+  "id": 18
+ },
+ {
+  "name": "Jek Tono Porkins",
+  "id": 19
+ },
+ {
+  "name": "Yoda",
+  "id": 20
+ },
+ {
+  "name": "Palpatine",
+  "id": 21
+ },
+ {
+  "name": "Boba Fett",
+  "id": 22
+ },
+ {
+  "name": "IG-88",
+  "id": 23
+ },
+ {
+  "name": "Bossk",
+  "id": 24
+ },
+ {
+  "name": "Lando Calrissian",
+  "id": 25
+ },
+ {
+  "name": "Lobot",
+  "id": 26
+ },
+ {
+  "name": "Ackbar",
+  "id": 27
+ },
+ {
+  "name": "Mon Mothma",
+  "id": 28
+ },
+ {
+  "name": "Arvel Crynyd",
+  "id": 29
+ },
+ {
+  "name": "Wicket Systri Warrick",
+  "id": 30
+ },
+ {
+  "name": "Nien Nunb",
+  "id": 31
+ },
+ {
+  "name": "Qui-Gon Jinn",
+  "id": 32
+ },
+ {
+  "name": "Nute Gunray",
+  "id": 33
+ },
+ {
+  "name": "Finis Valorum",
+  "id": 34
+ },
+ {
+  "name": "Padmé Amidala",
+  "id": 35
+ },
+ {
+  "name": "Jar Jar Binks",
+  "id": 36
+ },
+ {
+  "name": "Roos Tarpals",
+  "id": 37
+ },
+ {
+  "name": "Rugor Nass",
+  "id": 38
+ },
+ {
+  "name": "Ric Olié",
+  "id": 39
+ },
+ {
+  "name": "Watto",
+  "id": 40
+ },
+ {
+  "name": "Sebulba",
+  "id": 41
+ },
+ {
+  "name": "Quarsh Panaka",
+  "id": 42
+ },
+ {
+  "name": "Shmi Skywalker",
+  "id": 43
+ },
+ {
+  "name": "Darth Maul",
+  "id": 44
+ },
+ {
+  "name": "Bib Fortuna",
+  "id": 45
+ },
+ {
+  "name": "Ayla Secura",
+  "id": 46
+ },
+ {
+  "name": "Ratts Tyerel",
+  "id": 47
+ },
+ {
+  "name": "Dud Bolt",
+  "id": 48
+ },
+ {
+  "name": "Gasgano",
+  "id": 49
+ },
+ {
+  "name": "Ben Quadinaros",
+  "id": 50
+ },
+ {
+  "name": "Mace Windu",
+  "id": 51
+ },
+ {
+  "name": "Ki-Adi-Mundi",
+  "id": 52
+ },
+ {
+  "name": "Kit Fisto",
+  "id": 53
+ },
+ {
+  "name": "Eeth Koth",
+  "id": 54
+ },
+ {
+  "name": "Adi Gallia",
+  "id": 55
+ },
+ {
+  "name": "Saesee Tiin",
+  "id": 56
+ },
+ {
+  "name": "Yarael Poof",
+  "id": 57
+ },
+ {
+  "name": "Plo Koon",
+  "id": 58
+ },
+ {
+  "name": "Mas Amedda",
+  "id": 59
+ },
+ {
+  "name": "Gregar Typho",
+  "id": 60
+ },
+ {
+  "name": "Cordé",
+  "id": 61
+ },
+ {
+  "name": "Cliegg Lars",
+  "id": 62
+ },
+ {
+  "name": "Poggle the Lesser",
+  "id": 63
+ },
+ {
+  "name": "Luminara Unduli",
+  "id": 64
+ },
+ {
+  "name": "Barriss Offee",
+  "id": 65
+ },
+ {
+  "name": "Dormé",
+  "id": 66
+ },
+ {
+  "name": "Dooku",
+  "id": 67
+ },
+ {
+  "name": "Bail Prestor Organa",
+  "id": 68
+ },
+ {
+  "name": "Jango Fett",
+  "id": 69
+ },
+ {
+  "name": "Zam Wesell",
+  "id": 70
+ },
+ {
+  "name": "Dexter Jettster",
+  "id": 71
+ },
+ {
+  "name": "Lama Su",
+  "id": 72
+ },
+ {
+  "name": "Taun We",
+  "id": 73
+ },
+ {
+  "name": "Jocasta Nu",
+  "id": 74
+ },
+ {
+  "name": "R4-P17",
+  "id": 75
+ },
+ {
+  "name": "Wat Tambor",
+  "id": 76
+ },
+ {
+  "name": "San Hill",
+  "id": 77
+ },
+ {
+  "name": "Shaak Ti",
+  "id": 78
+ },
+ {
+  "name": "Grievous",
+  "id": 79
+ },
+ {
+  "name": "Tarfful",
+  "id": 80
+ },
+ {
+  "name": "Raymus Antilles",
+  "id": 81
+ },
+ {
+  "name": "Sly Moore",
+  "id": 82
+ },
+ {
+  "name": "Tion Medon",
+  "id": 83
+ },
+ {
+  "name": "Finn",
+  "id": 84
+ },
+ {
+  "name": "Rey",
+  "id": 85
+ },
+ {
+  "name": "Poe Dameron",
+  "id": 86
+ },
+ {
+  "name": "BB8",
+  "id": 87
+ },
+ {
+  "name": "Captain Phasma",
+  "id": 88
+ }
+]

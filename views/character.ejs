@@ -1,0 +1,60 @@
+<!-- views/signup.ejs -->
+<!doctype html>
+<html>
+<head>
+	<title>Character Profile</title>
+	<!-- load bootstrap css -->
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css"> 
+	<style>
+		body {padding-top: 15px; }
+	</style>
+</head>
+<body>
+<div class="container">
+
+<div class="col-sm-6 col-sm-offset-3">
+
+	<div class="jumbotron">
+		<% if (character) { %>
+			<form class="form">
+				<div class="form-group">
+					<label>Name</label>
+					<input type="text" class="form-control" value="<%= character.name %>">
+				</div>
+				<div class="form-group">
+					<label>Height</label>
+					<input type="text" class="form-control" value="<%= character.height %>">
+				</div>
+				<div class="form-group">
+					<label>Mass</label>
+					<input type="text" class="form-control" value="<%= character.mass %>">
+				</div>
+				<div class="form-group">
+					<label>Hair Color</label>
+					<input type="text" class="form-control" value="<%= character.hair_color %>">
+				</div>
+				<div class="form-group">
+					<label>Skin Color</label>
+					<input type="text" class="form-control" value="<%= character.skin_color %>">
+				</div>
+				<div class="form-group">
+					<label>Eye Color</label>
+					<input type="text" class="form-control" value="<%= character.eye_color %>">
+				</div>
+				<div class="form-group">
+					<label>Birth Year</label>
+					<input type="text" class="form-control" value="<%= character.birth_year %>">
+				</div>
+				<div class="form-group">
+					<label>Gender</label>
+					<input type="text" class="form-control" value="<%= character.gender %>">
+				</div>
+			</form>
+
+		<% } %>
+	</div>
+</div>
+
+</div>
+</body>
+</html>
