@@ -1,6 +1,6 @@
 # Star Wars API Server
 
-## Designed to demo some basic express route handling skills.
+### Designed to demo some basic express route handling skills.
 
 ## Current Endpoints
 	• /character/:name - Will return an ejs view with character info when given a valid
